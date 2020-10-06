@@ -1,6 +1,6 @@
 {
-  "name": "@TK-Aria/github-package-test",
-  "version": "0.0.2",
+  "name": "@tk-aria/github-package-test",
+  "version": "0.0.3",
   "description": "",
   "repository": {
     "type": "git",
@@ -14,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/TK-Aria/github-package-test/issues"
   },
-  "homepage": "https://github.com/TK-Aria/github-package-test#readme"
+  "homepage": "https://github.com/TK-Aria/github-package-test#readme",
+  "dependencies": {}
 }
